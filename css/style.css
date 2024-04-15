@@ -442,8 +442,8 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 }
 
 @media (max-width: 1024px) {
-#about img {
-	float: left;
-	margin-bottom: 20px;
-}
+	#about img {
+		float: left;
+		margin-bottom: 20px;
+	}
 }
